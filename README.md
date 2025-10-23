@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sukpinit Saijuang
 =========================================================================================================================================
 
-I am a student majoring in Computer Science, Chulalongkorn University
+I am a student majoring in Imaging and Printing Technology, Chulalongkorn University
 ---------------------------------------------------------------------
 
 I am interested in AI NLP and LLMs. The language I mainly use is Python.
